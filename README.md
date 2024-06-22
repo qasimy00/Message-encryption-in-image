@@ -5,6 +5,6 @@
 3. Text is encrypted to the image.
 3. New image is saved.
 
-# Decryption
+## Decryption
 1. Read last bit of image pixels.
 2. Convert binary to text string.

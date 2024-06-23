@@ -12,7 +12,7 @@ from PIL import Image as Im
 # In[2]:
 
 #give image path here
-im=cv2.imread(r"C:\Users\HP\Downloads\eve.jpeg")
+im=cv2.imread(r"C:\Users\HP\Downloads\Gris.jpeg")
 
 #give message to encrypt here
 text="weewoo"
